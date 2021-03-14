@@ -45,10 +45,16 @@ public class Methods {
     /* Написать метод, которому в качестве параметра передается строка, обозначающая имя.
     Метод должен вывести в консоль сообщение «Привет, указанное_имя!»*/
     public static void greetings(String name) {
-        System.out.println("Привет, Людмила!");
+        System.out.println("Привет, " + name + "!");
     }
+
 
     public static void main(String[] args) {
         System.out.println(calculate(2, 2, 2, 2));
+        System.out.println(isSum(5, 6));
+        isPositiveOrNegative(-30);
+        System.out.println(isNegative(20));
+        System.out.println("Привет, " + "Людмила" + "!");
     }
+
 }
