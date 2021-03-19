@@ -9,3 +9,5 @@ pom.xml
 target/classes/lesson1/Methods.class
 target/classes/lesson1/MyFirstClass.class
 .idea/workspace.xml
+target/classes/lesson2/CycleExamples.class
+target/classes/lesson2/hw2/HomeWork2.class
