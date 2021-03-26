@@ -9,3 +9,9 @@ pom.xml
 target/classes/lesson1/Methods.class
 target/classes/lesson1/MyFirstClass.class
 .idea/workspace.xml
+target/classes/lesson5/Test.class
+target/classes/lesson5/Point.class
+target/classes/lesson5/Person.class
+target/classes/lesson5/HomeWork5.class
+src/main/java/lesson5/Test.java
+src/main/java/lesson5/Point.java
