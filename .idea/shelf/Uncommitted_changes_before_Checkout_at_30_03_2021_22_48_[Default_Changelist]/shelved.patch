@@ -1,0 +1,29 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\r\n.idea/compiler.xml\r\n.idea/jarRepositories.xml\r\n.idea/misc.xml\r\n.idea/uiDesigner.xml\r\n.idea/vcs.xml\r\njava-base-03-2021.iml\r\npom.xml\r\ntarget/classes/lesson1/Methods.class\r\ntarget/classes/lesson1/MyFirstClass.class\r\n.idea/workspace.xml\r\ntarget/classes/lesson5/Test.class\r\ntarget/classes/lesson5/Point.class\r\ntarget/classes/lesson5/Person.class\r\ntarget/classes/lesson5/HomeWork5.class\r\nsrc/main/java/lesson5/Test.java\r\nsrc/main/java/lesson5/Point.java\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	
++++ b/.gitignore	
+@@ -9,6 +9,18 @@
+ target/classes/lesson1/Methods.class
+ target/classes/lesson1/MyFirstClass.class
+ .idea/workspace.xml
++target/classes/lesson6/Dog.class
++target/classes/lesson6/Cat.class
++target/classes/lesson6/AnimalTest.class
++target/classes/lesson6/Animal.class
++target/classes/HomeWork6/Dogs.class
++target/classes/HomeWork6/Cats.class
++target/classes/HomeWork6/AnimalsTest.class
++target/classes/HomeWork6/Animals.class
++src/main/java/HomeWork6/Dogs.java
++src/main/java/HomeWork6/Cats.java
++src/main/java/HomeWork6/AnimalsTest.java
++src/main/java/HomeWork6/Animals.java
+ target/classes/lesson5/Test.class
+ target/classes/lesson5/Point.class
+ target/classes/lesson5/Person.class
